@@ -1,0 +1,62 @@
+Object Name,Tag,Percent of Images where tag is in Description
+apple_1,apple,0.7357142857142858
+apple_2,apple,0.8857142857142857
+apple_3,apple,0.8023809523809524
+apple_4,apple,0.9285714285714286
+apple_5,apple,0.919047619047619
+banana_1,banana,0.9833333333333333
+banana_2,banana,0.9928571428571429
+banana_2,bunch of bananas,0.7761904761904762
+banana_2,bananas,0.919047619047619
+banana_3,banana,0.9809523809523809
+can_opener_2,can opener,0.0
+can_opener_2_box,box,0.34285714285714286
+can_opener_2_box,package,0.1523809523809524
+can_opener_2_box,can opener,0.09523809523809523
+can_opener_3,can opener,0.0
+can_opener_4,can opener,0.0
+can_opener_5,can opener,0.0
+gauze_1,box,0.3047619047619048
+gauze_1,package,0.2119047619047619
+gauze_1,gauze,0.05238095238095238
+lemon,lemon,0.4523809523809524
+lemon,lime,0.0
+lime,lime,0.0
+lime,lemon,0.0
+onion_1,onion,0.06904761904761905
+onion_1,shallot,0.0
+onion_2,onion,0.09285714285714286
+onion_3,onion,0.07142857142857142
+onion_3,red onion,0.004761904761904762
+onion_4,onion,0.05238095238095238
+onion_4,white onion,0.0
+onion_5,onion,0.12380952380952381
+onion_5,shallot,0.0
+potato_1,potato,0.007142857142857143
+potato_2,potato,0.11190476190476191
+potato_3,potato,0.0
+potato_4,potato,0.0
+potato_5,potato,0.19523809523809524
+potato_5,yam,0.0
+shampoo_1,shampoo,0.002380952380952381
+shampoo_1,bottle,0.09761904761904762
+shampoo_2,shampoo,0.11666666666666667
+shampoo_2,bottle,0.36428571428571427
+shampoo_3,shampoo,0.0
+shampoo_3,bottle,0.05714285714285714
+shampoo_4,shampoo,0.011904761904761904
+shampoo_4,bottle,0.05476190476190476
+shampoo_5,shampoo,0.1
+shampoo_5,bottle,0.44047619047619047
+toothpaste_1,box,0.3261904761904762
+toothpaste_1,package,0.13095238095238096
+toothpaste_1,toothpaste,0.6785714285714286
+toothpaste_2,box,0.19285714285714287
+toothpaste_2,package,0.06904761904761905
+toothpaste_2,toothpaste,0.6928571428571428
+toothpaste_3,toothpaste,0.3880952380952381
+toothpaste_3,tube,0.3738095238095238
+toothpaste_4,toothpaste,0.3261904761904762
+toothpaste_4,tube,0.3404761904761905
+toothpaste_5,toothpaste,0.37857142857142856
+toothpaste_5,tube,0.3738095238095238
